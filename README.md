@@ -1,6 +1,5 @@
 # **Hallo Welt** 
 
-### Meine Zitat
 <br>
 
 > *Ich bin Timur und ich lerne programmieren*
