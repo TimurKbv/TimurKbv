@@ -27,11 +27,6 @@
 
 
 
-[Schaut mal hier](https://www.youtube.com/watch?v=kh29_SERH0Y)
-
-
-<br>
-
 ---
 
 **Meine Ziele**
@@ -44,7 +39,7 @@
 
 
 ``` 
-"omg" <Hardcode>
+<Hardcode>
 
 ```
 
