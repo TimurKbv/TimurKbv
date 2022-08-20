@@ -6,10 +6,6 @@
 
 <br>
 
-##  **Full stack web developer**
-
-<br>
-
 
 
 **Meine Hobbys**
@@ -19,9 +15,11 @@
 
 <br>
 
-
-
 ---
+
+##  **Full stack web developer**
+
+<br>
 
 **Meine Ziele**
 
