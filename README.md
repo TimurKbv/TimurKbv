@@ -2,7 +2,7 @@
 
 <br>
 
-> *I'm Timur and I'm learning programming*
+> *Ich bin Timur und ich lerne programmieren*
 
 <br>
 
@@ -24,10 +24,15 @@
 **Meine Ziele**
 
 - [X] Orientierungskurs
-- [X] Bildungsgtschein
+- [X] Bildungsgutschein
+- [X] HTML5
+- [X] CSS3 (SASS/SCSS | full responsive design, desktop-first/mobile-first | bootstrap)
+- [ ] JavaScript
+- [ ] Backend
 - [ ] Jahreskurs erfolgreich absolvieren
+- [ ] Praktikum
 - [ ] Job als Web-Etwickler finden
-- [ ] Sich weiterbilden
+- [ ] Sich weiterbilden und immer besser werden
 
 
 ``` 
