@@ -2,16 +2,11 @@
 
 <br>
 
-> *Ich bin Timur und ich lerne programmieren*
+> *I'm Timur and I'm learning programming*
 
 <br>
 
-
-
-<img src="img/IMG-1472.PNG" alt="me" width="200">
-
-
-
+##  **Full stack web developer**
 
 <br>
 
