@@ -26,8 +26,9 @@
 - [X] Orientierungskurs
 - [X] Bildungsgutschein
 - [X] HTML5
-- [X] CSS3 (SASS/SCSS | full responsive design, desktop-first/mobile-first | bootstrap)
-- [ ] JavaScript
+- [X] CSS3 (SASS/SCSS | full responsive design, desktop-first/mobile-first | Bootstrap | Tailwind)
+- [X] JavaScript
+- [ ] React
 - [ ] Backend
 - [ ] Jahreskurs erfolgreich absolvieren
 - [ ] Praktikum
