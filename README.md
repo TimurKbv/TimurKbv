@@ -10,6 +10,7 @@
 
 **Meine Hobbys**
 
+- *Coden*
 - *Snowboarden*
 - *Boxen*
 
@@ -17,19 +18,23 @@
 
 ---
 
-##  **Full stack web developer**
+##  **Junior web developer**
 
 <br>
 
 **Meine Ziele**
 
 - [X] Orientierungskurs
-- [X] Bildungsgutschein
+- Frontend
 - [X] HTML5
 - [X] CSS3 (SASS/SCSS | full responsive design, desktop-first/mobile-first | Bootstrap | Tailwind)
-- [X] JavaScript
-- [ ] React
-- [ ] Backend
+- [X] JavaScript 
+- [X] React
+- Backend
+- [ ] Node.js
+- [ ] MongoDB
+- [ ] Mongoose
+- [ ] Final project
 - [ ] Jahreskurs erfolgreich absolvieren
 - [ ] Praktikum
 - [ ] Job als Web-Etwickler finden
