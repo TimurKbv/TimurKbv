@@ -25,12 +25,10 @@
 **Meine Ziele**
 
 - [X] Orientierungskurs
-- Frontend
 - [X] HTML5
 - [X] CSS3 (SASS/SCSS | full responsive design, desktop-first/mobile-first | Bootstrap | Tailwind)
 - [X] JavaScript 
 - [X] React
-- Backend
 - [ ] Node.js
 - [ ] MongoDB
 - [ ] Mongoose
