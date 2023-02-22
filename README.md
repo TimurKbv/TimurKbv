@@ -25,13 +25,16 @@
 **Meine Ziele**
 
 - [X] Orientierungskurs
+- [X] GitHub
 - [X] HTML5
-- [X] CSS3 (SASS/SCSS | full responsive design, desktop-first/mobile-first | Bootstrap | Tailwind)
+- [X] CSS3 (SASS/SCSS | full responsive design, desktop-first/mobile-first)
 - [X] JavaScript 
 - [X] React
-- [ ] Node.js
-- [ ] MongoDB
-- [ ] Mongoose
+- [X] Bootstrap | Tailwind
+- [X] Node.js
+- [X] Express.js
+- [X] MongoDB
+- [X] Mongoose
 - [ ] Final project
 - [ ] Jahreskurs erfolgreich absolvieren
 - [ ] Praktikum
