@@ -35,8 +35,8 @@
 - [X] Express.js
 - [X] MongoDB
 - [X] Mongoose
-- [ ] Final project
-- [ ] Jahreskurs erfolgreich absolvieren
+- [X] Final project
+- [X] Jahreskurs erfolgreich absolvieren
 - [ ] Praktikum
 - [ ] Job als Web-Etwickler finden
 - [ ] Sich weiterbilden und immer besser werden
