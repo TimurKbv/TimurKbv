@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Boardergramm](https://github.com/TimurKbv/boardergram/tree/main)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript** & **Angular**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
