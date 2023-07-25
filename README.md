@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Timur</h1>
 <h3 align="center">A passionate fullstack developer from Germany, Berlin</h3>
 
-- 🔭 I’m currently working on [Shach with React](https://github.com/TimurKbv/shach-with-react)
+- 🔭 I’m currently working on [Todo App Angular](https://github.com/TimurKbv/todo-angular)
 
 - 🌱 I’m currently learning **TypeScript** & **Angular**
 
