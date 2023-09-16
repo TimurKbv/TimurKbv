@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Timur</h1>
 <h3 align="center">A passionate fullstack developer from Germany, Berlin</h3>
 
-- 🔭 I’m currently working on [Todo App Angular]([https://github.com/TimurKbv/todo-angular](https://github.com/TimurKbv/boardergram))
+- 🔭 I’m currently working on [BOARDERGRAM]((https://github.com/TimurKbv/boardergram))
 - 
 - 🌱 I’m currently learning **TypeScript** & **Angular**
 
