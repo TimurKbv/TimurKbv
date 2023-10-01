@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Timur</h1>
-<h3 align="center">A passionate fullstack developer from Germany, Berlin</h3>
+<h3 align="center">Fullstack developer from Germany, Berlin</h3>
 
 - 🔭 I’m currently working on [BUDGET APP](https://github.com/TimurKbv/budget-app)
 - 
