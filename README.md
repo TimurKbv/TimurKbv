@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [BUDGET APP](https://github.com/TimurKbv/budget-app)
 - 
-- 🌱 I’m currently learning **TypeScript** & **Angular**
+- 🌱 I’m currently learning **TypeScript** & **Vue3**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
