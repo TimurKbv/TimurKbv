@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Timur</h1>
 <h3 align="center">Fullstack developer from Germany, Berlin</h3>
 
-- 🔭 I’m currently working on [BUDGET APP](https://github.com/TimurKbv/budget-app)
+- 🔭 I’m currently working on [BLOG APP](https://github.com/TimurKbv/blog)
 - 
-- 🌱 I’m currently learning **TypeScript** & **Vue3**
+- 🌱 I’m currently learning  **Next.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
